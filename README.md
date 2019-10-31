@@ -4,7 +4,7 @@
 
 -----
 
-> 原文转载自李笑来老师，原站链接：blockchainlittlebook.com
+> 原文转载自李笑来老师，原站链接：www.blockchainlittlebook.com
 
 ## 警告
 
